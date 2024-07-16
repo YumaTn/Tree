@@ -118,7 +118,7 @@ function setup() {
 			mutate();
 		}
 		else {
-			button_change.html('Enable wind')
+			button_change.html('Chuyển động')
 			mutating = false;
 		}
 	});
